@@ -5,6 +5,14 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
+    title: "YumFood  Restaurant ",
+    cardImage: "assets/images/project-page/yum.jpg",
+    description: "A food ordering website built with Html, Scss and Gsap",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/text.png",
+    Previewlink: "https://hardcore-kepler-4b2736.netlify.app/",
+    Githublink: "https://github.com/shrutiag14/yumfood",
+  },
+  {
     title: "Text To Handwritten",
     cardImage: "assets/images/project-page/text.jpeg",
     description: "A text to handwritten web app to convert .txt file into your own handwritten font.",
